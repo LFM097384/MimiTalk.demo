@@ -12,8 +12,8 @@ authors:
 title: "MimiTalk: Dual-Agent AI Interview System"
 version: 1.0.0
 date-released: 2025-01-01
-url: "https://github.com/username/MimiTalk-Research"
-repository-code: "https://github.com/username/MimiTalk-Research"
+url: "https://github.com/LFM097384/MimiTalk-Research"
+repository-code: "https://github.com/LFM097384/MimiTalk-Research"
 abstract: "A dual-agent constitutional AI framework for scalable and ethical conversational data collection in qualitative research."
 keywords:
   - "Human-Computer Interaction"
